@@ -27,10 +27,6 @@
 
 ## 🧑‍💻 About me
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 - 🎓 **M.Tech in Computer Science** at IIIT Hyderabad (2025–2027) · CGPA 8.59
 - 🎓 **B.E. in Information Technology** from Shantilal Shah Engineering College, Bhavnagar (2021–2025) · CGPA 8.11
 - 🏗️ I mostly build **event-driven microservices in Node.js**, with **C++**, DSA and OS fundamentals underneath
@@ -38,14 +34,11 @@
 - 📫 Open to **SDE / backend / systems** roles. Reach me at **tarunkrajai@gmail.com**
 - 🐱 Mildly obsessed with cats, as you're about to find out
 
-</td>
-<td width="38%" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" width="220" alt="Cat with glasses working on a laptop" />
   <br/>
   <sub><i>Senior Purr-grammer, reviewing your PR</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 ```js
 const tarun = {
@@ -62,20 +55,17 @@ const tarun = {
 
 ## 🧩 Problem solving
 
-<table>
-<tr>
-<td width="70%" align="center">
+<p align="center">
   <a href="https://leetcode.com/u/rajaiTarun/">
     <img src="https://leetcard.jacoblin.cool/rajaiTarun?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rajaiTarun" />
   </a>
-</td>
-<td width="30%" align="center">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/g2JO6qWbQhiV7m4AKM/200w.gif" width="200" alt="Kung fu cat" />
   <br/>
   <sub><i>Me vs. a LeetCode Hard</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RajaiTarun&theme=tokyonight&hide_border=true&ring=E0457B&fire=FF8906&currStreakLabel=E0457B" alt="GitHub streak" />
@@ -91,22 +81,15 @@ const tarun = {
 
 > 🚧 **Heads up: this one is still under construction.** I'm actively building it, so expect new features, the occasional broken thing, and a lot of commits titled "fix". Hard hats (and cats) recommended. 👷🐈
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 A merch-drop portal for campus clubs. The real goal was to get flash-sale checkout right: **500 students** hitting "Buy" on the same **50-unit hoodie** in the same second, and inventory still ends at exactly zero. Not -3. Not "we'll email you". Zero.
 
 `5 services` · `2 databases` · `1 message broker` · `4 design patterns` · `0 oversells` · `0 hoodie riots`
 
-</td>
-<td width="30%" align="center">
+<p align="center">
   <img src="https://http.cat/409.jpg" width="200" alt="HTTP 409 Conflict cat" />
   <br/>
   <sub><i>What 500 students on one hoodie looks like without locks</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 - **Architecture:** API Gateway, Auth/User, Catalog, Order and Notification services in **Node.js/Express**, with a zero-trust gateway that owns JWT verification, RBAC and rate limiting
 - **Polyglot persistence:** **PostgreSQL** for ACID-critical orders and **MongoDB** for the irregular, schema-flexible catalog
@@ -131,22 +114,15 @@ A merch-drop portal for campus clubs. The real goal was to get flash-sale checko
 
 ### 🐚 [POSIX](https://github.com/RajaiTarun/POSIX): an interactive Unix shell in C++
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 A POSIX-compliant shell written from scratch in **C++11**. It doesn't wrap `bash`. Every feature talks to the kernel directly through raw system calls.
 
 And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 
-</td>
-<td width="30%" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Kitten staring at a terminal" />
   <br/>
   <sub><i>Waiting for <code>waitpid()</code> to return</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 - **Processes:** `fork` / `execvp` / `waitpid` for foreground and background jobs, with `waitpid(-1, WNOHANG)` reaping zombies on every REPL iteration (a shell that fights zombies 🧟)
 - **IPC:** **N-stage pipelines** and `<` `>` `>>` redirection, built with chained `pipe` + `dup2`. Pipes and redirects work together in one command (`cat < in.txt | sort | uniq > out.txt`)
@@ -164,10 +140,6 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech stack
-
-<table>
-<tr>
-<td width="70%" valign="top">
 
 **Languages**
 <br/>
@@ -187,14 +159,11 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 
-</td>
-<td width="30%" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" alt="Cat typing on an old computer" />
   <br/>
   <sub><i>Me, learning a new framework every week</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 **Core CS:** Data Structures & Algorithms · Object-Oriented Design & Design Patterns · Distributed Systems · Operating Systems · Computer Networks · DBMS · System Design
 
@@ -203,22 +172,15 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 
 ## 🏆 Achievements
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 - 🥇 **All India Rank 114** in IIIT Hyderabad's **PGEE 2025**, which got me into the M.Tech CS program
 - 📈 **GATE CS 2025**, 97.24 percentile, in the **top 3%** of over 100,000 candidates
 - ✅ Also qualified **GATE DA 2025** and **GATE CS 2024** (I simply cannot stop writing GATE)
 
-</td>
-<td width="30%" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/GK7dGndK4kyOozR9Xk/giphy.gif" width="170" alt="Dancing kitten" />
   <br/>
   <sub><i>Me when the results came out</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -235,23 +197,16 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 
 ### 🐾 Fun facts
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 - 🐛 I've spent more time debugging race conditions than I'd like to admit. The race conditions have spent zero time debugging me
 - 🔁 I use retry-with-exponential-backoff in real life too: texts, job applications, the gym
 - 🧟 My shell kills zombie processes on every loop. I wish my inbox worked the same way
 - 🔒 Every cat in this README was acquired with a distributed lock. No cats were oversold
 
-</td>
-<td width="30%" align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/FaFu1s2hO1xYHdpk6N/giphy.gif" width="190" alt="Cat surrounded by error popups" />
   <br/>
   <sub><i>Me reading a stack trace from a service I didn't write</i></sub>
-</td>
-</tr>
-</table>
+</p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <br/>
