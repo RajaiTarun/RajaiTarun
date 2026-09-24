@@ -188,10 +188,12 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://http.cat/200.jpg" width="180" alt="HTTP 200" /><br/><sub><b>200</b>: all tests pass on the first try<br/>(never happened)</sub></td>
-<td align="center"><img src="https://http.cat/429.jpg" width="180" alt="HTTP 429" /><br/><sub><b>429</b>: my rate limiter, after I<br/>stopped it going negative</sub></td>
-<td align="center"><img src="https://http.cat/500.jpg" width="180" alt="HTTP 500" /><br/><sub><b>500</b>: "it works on my machine"</sub></td>
-<td align="center"><img src="https://http.cat/418.jpg" width="180" alt="HTTP 418" /><br/><sub><b>418</b>: when relatives ask me<br/>to fix their printer</sub></td>
+<td width="50%" align="center"><img src="https://http.cat/200.jpg" width="100%" alt="HTTP 200" /><br/><sub><b>200</b>: all tests pass on the first try<br/>(never happened)</sub></td>
+<td width="50%" align="center"><img src="https://http.cat/429.jpg" width="100%" alt="HTTP 429" /><br/><sub><b>429</b>: my rate limiter, after I<br/>stopped it going negative</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="https://http.cat/500.jpg" width="100%" alt="HTTP 500" /><br/><sub><b>500</b>: "it works on my machine"</sub></td>
+<td width="50%" align="center"><img src="https://http.cat/418.jpg" width="100%" alt="HTTP 418" /><br/><sub><b>418</b>: when relatives ask me<br/>to fix their printer</sub></td>
 </tr>
 </table>
 
