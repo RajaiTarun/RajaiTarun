@@ -60,6 +60,29 @@ const tarun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🧩 Problem solving
+
+<table>
+<tr>
+<td width="70%" align="center">
+  <a href="https://leetcode.com/u/rajaiTarun/">
+    <img src="https://leetcard.jacoblin.cool/rajaiTarun?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rajaiTarun" />
+  </a>
+</td>
+<td width="30%" align="center">
+  <img src="https://media.giphy.com/media/g2JO6qWbQhiV7m4AKM/200w.gif" width="200" alt="Kung fu cat" />
+  <br/>
+  <sub><i>Me vs. a LeetCode Hard</i></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RajaiTarun&theme=tokyonight&hide_border=true&ring=E0457B&fire=FF8906&currStreakLabel=E0457B" alt="GitHub streak" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🚀 Featured projects
 
 ### 🛍️ [MerchFlow](https://github.com/RajaiTarun/MerchFlow): a polyglot, event-driven microservices platform
@@ -177,28 +200,6 @@ And yes, it runs `cat`. Obviously it runs `cat`. 🐈
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧩 Problem solving
-
-<table>
-<tr>
-<td width="70%" align="center">
-  <a href="https://leetcode.com/u/rajaiTarun/">
-    <img src="https://leetcard.jacoblin.cool/rajaiTarun?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rajaiTarun" />
-  </a>
-</td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/g2JO6qWbQhiV7m4AKM/200w.gif" width="200" alt="Kung fu cat" />
-  <br/>
-  <sub><i>Me vs. a LeetCode Hard</i></sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajaiTarun&theme=tokyonight&hide_border=true&ring=E0457B&fire=FF8906&currStreakLabel=E0457B" alt="GitHub streak" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
 
