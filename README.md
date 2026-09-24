@@ -22,6 +22,18 @@
 
 ---
 
+## 🧩 Problem solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/rajaiTarun/">
+  <img src="https://leetcard.jacoblin.cool/rajaiTarun?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rajaiTarun" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Featured projects
 
 ### 🛍️ [MerchFlow](https://github.com/RajaiTarun/MerchFlow): a polyglot, event-driven microservices platform
@@ -106,18 +118,6 @@ A POSIX-compliant shell written from scratch in **C++11**. It doesn't wrap `bash
 </p>
 
 **Core CS:** Data Structures & Algorithms · Object-Oriented Design & Design Patterns · Distributed Systems · Operating Systems · Computer Networks · DBMS · System Design
-
----
-
-## 🧩 Problem solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/rajaiTarun/">
-  <img src="https://leetcard.jacoblin.cool/rajaiTarun?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rajaiTarun" />
-</a>
-
-</div>
 
 ---
 
